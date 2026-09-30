@@ -1,0 +1,7 @@
+.env
+holiday_cache.json
+holiday_cache.json.tmp
+poll_schedule.json
+poll_state.json
+__pycache__/
+.idea/

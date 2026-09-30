@@ -1,0 +1,4 @@
+slack-bolt
+Pillow
+pystray
+python-dotenv

@@ -1,0 +1,9 @@
+{
+  "channels": {
+    "C0123456789": {
+      "enabled": true,
+      "meal_time": "12:00",
+      "recommendation_count": 5
+    }
+  }
+}
